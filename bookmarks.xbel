@@ -385,11 +385,11 @@
     <bookmark href="http://bi.ht-healthcare.com/#/views/_17567206352490/sheet0" id="127">
       <title>交易: 看板 - Tableau Server</title>
     </bookmark>
-    <bookmark href="http://bi.ht-healthcare.com/#/views/DIP_16675290956240/DIP_1?:iid=1" id="128">
-      <title>DIP明细: DIP仪表</title>
-    </bookmark>
     <bookmark href="http://bi.ht-healthcare.com/#/views/data/sheet2" id="129">
       <title>data: 主数据仪表盘 - Tableau Server</title>
+    </bookmark>
+    <bookmark href="http://bi.ht-healthcare.com/#/views/DIP_16675290956240/DIP_1?:iid=1" id="128">
+      <title>DIP明细: DIP仪表</title>
     </bookmark>
   </folder>
   <folder id="13">
