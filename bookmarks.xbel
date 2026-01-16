@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :159: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <folder id="4">
+    <title>办公</title>
+    <bookmark href="https://www.processon.com/diagrams" id="18">
+      <title>ProcessOn - 我的文件</title>
+    </bookmark>
+    <bookmark href="https://www.eolinker.com/#/home/overview?spaceKey=6l3nm8S5446e03915f0e2eb8c850cb474ff46f8e1627e66" id="19">
+      <title>空间概况-EOLINKER接口管理平台</title>
+    </bookmark>
+    <bookmark href="https://developer.rongcloud.cn/signin?returnUrl=%2Foverview%2Findexnew" id="20">
+      <title>融云 RongCloud - 登录</title>
+    </bookmark>
+    <bookmark href="https://www.wjx.cn/" id="21">
+      <title>问卷星_不止问卷调查/在线考试</title>
+    </bookmark>
+    <bookmark href="https://shimo.im/desktop" id="22">
+      <title>石墨文档</title>
+    </bookmark>
+    <bookmark href="https://docs.informatica.com/" id="23">
+      <title>Home</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.120/" id="24">
+      <title>主页 - Tableau Server</title>
+    </bookmark>
+    <bookmark href="https://192.168.20.120:8850/" id="25">
+      <title>Login - Tableau Services Manager</title>
+    </bookmark>
+    <bookmark href="https://192.168.19.4:8443/core/auth/login/" id="26">
+      <title>外网</title>
+    </bookmark>
+    <bookmark href="http://172.16.1.9:27019/ui/#/users/first-login/personal-information-improvement/" id="27">
+      <title>内网</title>
+    </bookmark>
+    <bookmark href="http://10.100.4.17:8080/core/auth/login/" id="28">
+      <title>普安</title>
+    </bookmark>
+    <bookmark href="https://msdn.itellyou.cn/" id="29">
+      <title>MSDN, 我告诉你 - 做一个安静的工具站</title>
+    </bookmark>
+    <bookmark href="https://trello.com/kevin34541665/boards" id="30">
+      <title>看板 | Trello</title>
+    </bookmark>
+    <bookmark href="https://p.alipay.com/workspace/home" id="31">
+      <title>支付宝服务商平台</title>
+    </bookmark>
+    <bookmark href="https://ht-healthcare.bjsfxqzyyy.com/manage#/home" id="32">
+      <title>凤翔区中医院后台管理平台</title>
+    </bookmark>
+    <bookmark href="https://www.remove.bg/zh?from=thosefree.com" id="33">
+      <title>在线抠图软件_图片去除背景 | remove.bg – remove.bg</title>
+    </bookmark>
+    <folder id="34">
+      <title>彩虹桥</title>
+      <bookmark href="http://10.100.1.1:8280/webadmin/Index.action" id="134">
+        <title>蔡家坡普安医院</title>
+      </bookmark>
+      <bookmark href="http://192.168.20.103:8080/webadmin/Index.action" id="135">
+        <title>高新医院103</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="5">
+    <title>地产</title>
+    <bookmark href="http://zjj.xa.gov.cn/ygsf/index.aspx" id="35">
+      <title>商品房预售项目公示--西安市住房和城乡建设局|西安市轨道交通建设办公室</title>
+    </bookmark>
+    <bookmark href="https://zjj.xa.gov.cn/ygsf/jggs/index.aspx" id="36">
+      <title>西安市商品住房销售价格公示--西安市住房和城乡建设局|西安市轨道交通建设办公室</title>
+    </bookmark>
+    <bookmark href="http://zfyxdj.xa.gov.cn/zfrgdjpt/xmgs.aspx" id="37">
+      <title>西安市商品住房销售公示平台--西安市住房和城乡建设局|西安市轨道交通建设办公室</title>
+    </bookmark>
+    <bookmark href="https://haokan.baidu.com/v?pd=wisenatural&amp;vid=10707521192755971679" id="38">
+      <title>美的净水器更换滤芯_好看视频</title>
+    </bookmark>
+  </folder>
+  <folder id="6">
+    <title>标准</title>
+    <bookmark href="https://www.kasoftware.com/edi-standards/3248-2.html" id="40">
+      <title>HL7 报文 | 西安知行软件有限公司</title>
+    </bookmark>
+    <bookmark href="http://meta.omaha.org.cn/index" id="41">
+      <title>HITA元数据服务平台</title>
+    </bookmark>
+    <bookmark href="http://fhirchina.com/" id="42">
+      <title>FHIR 中国</title>
+    </bookmark>
+    <bookmark href="https://www.hl7.org/fhir/us/core/examples.html" id="43">
+      <title>HL7.FHIR.US.CORE\Examples - FHIR v4.0.1</title>
+    </bookmark>
+    <bookmark href="http://hl7.org/fhir/?utm_referrer=http%3A%2F%2Fwww.hl7.org%2Fimplement%2Fstandards%2Fproduct_brief.cfm%3Fproduct_id%3D491" id="44">
+      <title>指数 - FHIR v4.0.0</title>
+    </bookmark>
+    <bookmark href="https://www.hl7fhir.cn/R4/index.html" id="45">
+      <title>HL7 FHIR中文版</title>
+    </bookmark>
+    <bookmark href="https://sjzx.niha.org.cn/" id="46">
+      <title>电子病历评级</title>
+    </bookmark>
+    <bookmark href="http://www.chiss.org.cn/hism/wcmpub/hism1029/search/" id="47">
+      <title>中国卫生信息标准网</title>
+    </bookmark>
+    <bookmark href="http://www.nhc.gov.cn/" id="48">
+      <title>中华人民共和国国家卫生健康委员会</title>
+    </bookmark>
+    <bookmark href="http://www.nbphsp.org.cn/" id="49">
+      <title>国家基本公共卫生服务项目管理信息平台</title>
+    </bookmark>
+    <bookmark href="http://code.nhsa.gov.cn:8000/" id="50">
+      <title>国家医保局信息化标准动态维护</title>
+    </bookmark>
+    <bookmark href="http://www.nhsa.gov.cn/" id="51">
+      <title>国家医疗保障局</title>
+    </bookmark>
+    <bookmark href="http://www.yszhi.net/chsdrg" id="52">
+      <title>医数智 - 医疗数据智能治理专家</title>
+    </bookmark>
+  </folder>
+  <folder id="7">
+    <title>医疗官网</title>
+    <bookmark href="https://open.tengmed.com/" id="53">
+      <title>微信电子健康卡开放平台</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.5:8089/HC_PDE/management/login;jsessionid=F94D3AD3618A59BD0C00B55C293086F3#ehcop_log_206" id="54">
+      <title>宝鸡高新人民医院前置机管理平台</title>
+    </bookmark>
+    <bookmark href="http://im.ht-healthcare.com/#/account/signin" id="55">
+      <title>汉唐医疗</title>
+    </bookmark>
+    <bookmark href="https://mrds-admin.sf-express.com/#/user/login?redirect=%2Fdashboard%2Fanalysis" id="56">
+      <title>医寄通</title>
+    </bookmark>
+    <bookmark href="https://v.sf-express.com/web/laas/home" id="57">
+      <title>顺丰速运企业服务平台</title>
+    </bookmark>
+    <bookmark href="http://medcord.ht-healthcare.com/manage/#/login?redirect=%2Fhome" id="58">
+      <title>汉唐云病案后台管理平台</title>
+    </bookmark>
+    <bookmark href="http://im.service.ht-healthcare.com/ht_im_service/" id="59">
+      <title>服务器启动正常</title>
+    </bookmark>
+    <bookmark href="http://pay.ht-healthcare.com/index.html#/home" id="60">
+      <title>首页 - 汉唐集团统一支付平台</title>
+    </bookmark>
+    <bookmark href="http://oav5.guotianyun.com/Home/homepage_welcome" id="61">
+      <title>“国天云”物业任务调度管理后台</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.84/html-inner/#/login" id="62">
+      <title>国家单病种-医院端接口管理系统</title>
+    </bookmark>
+    <bookmark href="https://quality.ncis.cn/platform-home" id="63">
+      <title>国家单病种质量管理控制与医疗安全报告学习平台</title>
+    </bookmark>
+    <bookmark href="https://account.aliyun.com/login/login.htm?spm=5176.22772544.J_8058803260.35.10632ea9QUglxI&amp;oauth_callback=https%3A%2F%2Fwww.aliyun.com%2Factivity%2Fnew%3Futm_content%3Dse_1009243113" id="64">
+      <title>阿里云登录 - 欢迎登录阿里云，安全稳定的云计算服务平台</title>
+    </bookmark>
+    <bookmark href="https://login.bce.baidu.com/?fromai=1&amp;redirect=https://ai.baidu.com/solution/pase" id="65">
+      <title>百度智能云-登录</title>
+    </bookmark>
+    <bookmark href="http://www.gov.cn/flfg/2012-05/08/content_2132174.htm" id="66">
+      <title>抗菌药物临床应用管理办法（卫生部令第84号）</title>
+    </bookmark>
+    <bookmark href="https://login.oracle.com/mysso/signon.jsp" id="67">
+      <title>Oracle 登录 - 单点登录</title>
+    </bookmark>
+    <bookmark href="https://beian.miit.gov.cn/#/Integrated/index" id="68">
+      <title>ICP/IP地址/域名信息备案管理系统</title>
+    </bookmark>
+    <folder id="69">
+      <title>DRG</title>
+      <bookmark href="https://www.cms.gov/icd10m/FY2023-version40-fullcode-cms/fullcode_cms/P0001.html" id="143">
+        <title>ICD-10-CM/PCS MS-DRG v40.0 Definitions Manual</title>
+      </bookmark>
+      <bookmark href="http://www.nhsa.gov.cn/art/2020/11/20/art_53_3988.html" id="144">
+        <title>国家医疗保障局 政策法规 国家医疗保障局办公室关于印发国家医疗保障按病种分值付费（DIP）技术规范和DIP病种目录库（1.0版）的通知</title>
+      </bookmark>
+      <bookmark href="http://www.nhsa.gov.cn/art/2019/10/24/art_53_1879.html" id="145">
+        <title>国家医疗保障局 政策法规 关于印发疾病诊断相关分组（DRG）付费国家试点技术规范和分组方案的通知</title>
+      </bookmark>
+      <bookmark href="https://www.health.ny.gov/facilities/hospital/reimbursement/apr-drg/weights/2018-07-01_final_weights.htm" id="146">
+        <title>Final APR–DRG Weights Effective July 1, 2018 (v34)</title>
+      </bookmark>
+      <bookmark href="https://code.nhsa.gov.cn/jbzd/public/dataWesterSearch.html?batchNumber=" id="147">
+        <title>ICD-10医保版</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://cdsip.nhc.gov.cn/" id="70">
+      <title>国家药品供应保障综合管理信息平台</title>
+    </bookmark>
+    <bookmark href="https://udi.nmpa.gov.cn/" id="71">
+      <title>国家药品监督管理局医疗器械唯一标识数据库</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>看书</title>
+    <bookmark href="https://inkread.com/feeds/explore/?bundles=zh" id="72">
+      <title>Kindle4rss</title>
+    </bookmark>
+    <bookmark href="https://www.jiumodiary.com/" id="73">
+      <title>Jiumo Search 鸠摩搜索 - 文档搜索引擎</title>
+    </bookmark>
+    <bookmark href="https://bookfere.com/" id="74">
+      <title>书伴 – 为静心阅读而生</title>
+    </bookmark>
+    <bookmark href="https://www.pansoso.com/" id="75">
+      <title>网盘搜索,就上盘搜搜 - 好用的百度云搜索引擎</title>
+    </bookmark>
+    <bookmark href="http://wangpan.renrensousuo.com/" id="76">
+      <title>网盘搜索 - 众人搜索网</title>
+    </bookmark>
+    <bookmark href="http://www.zoudupai.com/" id="77">
+      <title>走读派读书导航 - 读书学习第一站！</title>
+    </bookmark>
+    <bookmark href="https://book.519.best/" id="78">
+      <title>519电子书资源网：免费Kindile电子书_epub_mobi_azw3电子书百度云下载推送</title>
+    </bookmark>
+    <bookmark href="http://crs4.github.io/hl7apy/tutorial/index.html#tutorial" id="79">
+      <title>Getting started — HL7apy - a lightweight Python library to parse, create and handle HL7 v2.x messages</title>
+    </bookmark>
+    <bookmark href="http://www.520myfuture.com/" id="80">
+      <title>我的图书-免费中文文献库，英文文献库，顶级pumed数据库、高权OVID数据库、 SD数据库、SCI 数据库</title>
+    </bookmark>
+    <bookmark href="http://www.520myfuture.com/Account/Login?ReturnUrl=%2F" id="81">
+      <title>520myfuture.com/Account/Login?ReturnUrl=%2F</title>
+    </bookmark>
+    <bookmark href="https://zh.z-library.sk/profile/39934499/a04874#tags" id="82">
+      <title>我的个人资料 | Z-Library</title>
+    </bookmark>
+  </folder>
+  <folder id="9">
+    <title>产品原型</title>
+    <bookmark href="http://demo.axureshop.com/?url=http://cloud.axureshop.com/cx95ao&amp;buyurl=https://www.axureshop.com/a/1088594.html" id="83">
+      <title>AxureShop原型演示</title>
+    </bookmark>
+    <bookmark href="https://dbdiagram.io/home" id="84">
+      <title>dbdiagram.io - Database Relationship Diagrams Design Tool --- dbdiagram.io - 数据库关系图设计工具</title>
+    </bookmark>
+    <bookmark href="https://www.mermaidchart.com/app/dashboard" id="85">
+      <title>Dashboard | Mermaid Chart</title>
+    </bookmark>
+    <bookmark href="https://excalidraw.com/" id="86">
+      <title>Excalidraw</title>
+    </bookmark>
+    <bookmark href="https://github.com/dashboard" id="87">
+      <title>GitHub Dashboard</title>
+    </bookmark>
+  </folder>
+  <folder id="10">
+    <title>思想</title>
+    <bookmark href="http://www.woshipm.com/it/5214568.html" id="88">
+      <title>如何快速上线在线问诊？ | 人人都是产品经理</title>
+    </bookmark>
+    <bookmark href="http://www.woshipm.com/operate/5277857.html" id="89">
+      <title>公立医院之延续护理平台调研分享 | 人人都是产品经理</title>
+    </bookmark>
+    <bookmark href="https://report.iresearch.cn/" id="90">
+      <title>报告_艾瑞网</title>
+    </bookmark>
+    <bookmark href="https://www.djyanbao.com/category/9798?channel=BaiduYiguan&amp;bd_vid=7923959161726561865" id="91">
+      <title>易观-洞见研报-行业报告</title>
+    </bookmark>
+    <bookmark href="http://www.aliresearch.com/cn/index" id="92">
+      <title>阿里研究院</title>
+    </bookmark>
+    <bookmark href="https://www.itjuzi.com/" id="93">
+      <title>IT桔子 | 泛互联网创业投资项目信息数据库及商业信息服务商</title>
+    </bookmark>
+    <bookmark href="https://index.baidu.com/v2/index.html#/" id="94">
+      <title>百度指数</title>
+    </bookmark>
+    <bookmark href="http://www.woshipm.com/it/4664143.html" id="95">
+      <title>医疗后服务的线上延续，随访是起点吗？ | 人人都是产品经理</title>
+    </bookmark>
+    <bookmark href="https://www.gov.cn/zhengce/2021-06/29/content_5723552.htm" id="96">
+      <title>药品不良反应报告和监测管理办法_国家市场监督管理总局_中国政府网</title>
+    </bookmark>
+    <bookmark href="https://hospital.seu.edu.cn/2023/0304/c29923a435958/page.htm" id="97">
+      <title>医院处方点评管理规范（试行）</title>
+    </bookmark>
+  </folder>
+  <folder id="11">
+    <title>集团医院</title>
+    <bookmark href="http://192.168.19.3/index.php" id="98">
+      <title>网络监控</title>
+    </bookmark>
+    <bookmark href="https://192.168.201.107/login" id="99">
+      <title>深信服</title>
+    </bookmark>
+    <bookmark href="https://hsjc.jiankangbaoji.com/nuc/#/login?redirect=%2Findex" id="100">
+      <title>宝鸡核酸检测应急平台</title>
+    </bookmark>
+    <bookmark href="https://js.design/team?i=63105b4a06e43e3200ab76b4" id="101">
+      <title>汉唐 - 即时设计</title>
+    </bookmark>
+    <bookmark href="https://medcord.ht-healthcare.com/manage/#/login?redirect=%2Fhome" id="102">
+      <title>汉唐云病案后台管理平台</title>
+    </bookmark>
+    <bookmark href="https://monitor.ht-healthcare.com/#/login?redirect=%2FsystemInfo" id="103">
+      <title>互联互通监测平台</title>
+    </bookmark>
+    <bookmark href="http://sso.ht-healthcare.com/#/login?redirect=%2Fhome" id="104">
+      <title>健康管理平台</title>
+    </bookmark>
+    <bookmark href="https://xcx.ht-healthcare.com/manage#/login?redirect=%2Fhome" id="105">
+      <title>小程序后台管理平台</title>
+    </bookmark>
+    <bookmark href="https://consult.ht-healthcare.com/manage/#/login?redirect=%2Fhome" id="106">
+      <title>在线问诊后台管理平台</title>
+    </bookmark>
+    <bookmark href="https://presc.ht-healthcare.com/#/login?redirect=%2Frx%2Flink%2F%3Ahttps%3A%2Fxcx.ht-healthcare.com%2Fmanage%2Frx%2Fstatistics" id="107">
+      <title>审方中心后台管理平台</title>
+    </bookmark>
+    <bookmark href="https://nursing.ht-healthcare.com/manage/#/login?redirect=%2Fhome" id="108">
+      <title>护理到家后台管理平台</title>
+    </bookmark>
+    <bookmark href="https://repair.ht-healthcare.com/manage/#/login?redirect=%2Fhome" id="109">
+      <title>汉唐云管家后台管理平台</title>
+    </bookmark>
+    <bookmark href="https://grading.ht-healthcare.com/manage/#/login?redirect=%2Fhome" id="110">
+      <title>医院迎评系统</title>
+    </bookmark>
+    <bookmark href="https://pe.ht-healthcare.com/#/home" id="111">
+      <title>首页 - 医院体检系统</title>
+    </bookmark>
+    <bookmark href="https://api.ht-healthcare.com/login.html" id="112">
+      <title>网关管理系统 - 登录</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.91:8080/login" id="113">
+      <title>支付管理</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.128:8080/xxl-job-admin/toLogin" id="114">
+      <title>LV任务调度中心</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.132:9000/search" id="115">
+      <title>Graylog Web Interface - Unsaved Search</title>
+    </bookmark>
+    <bookmark href="https://repair.ht-healthcare.com/stats/page#/?typeId=3,25,26,27,28,29,32,35,38" id="116">
+      <title>汉唐云管家后台数据看板</title>
+    </bookmark>
+    <bookmark href="https://b.kuaidi100.com/page/ep" id="117">
+      <title>快递管家-专为商家打造的物流服务平台</title>
+    </bookmark>
+    <bookmark href="http://172.16.1.9:18081/dsmart/jsps/index.jsp" id="118">
+      <title>基石数据 数据库专家社区版</title>
+    </bookmark>
+    <bookmark href="https://gxrmyy.ik3cloud.com/k3cloud/html5/dform.aspx?formId=BOS_HtmlConsole&amp;formType=mobileform&amp;pageId=MainPageId&amp;_cnneptstate_=SFplSFVVOThIVVVdSFVVVSdbW1NUVFRQWFpYVFBXKVMqUFspWFdQKFhZKlZcV1UoJSpUSFVVT0hVVTctKEhVVV1IVVUqJilaVVxaXFBZKlVWUFdTVldQXFUlKFAmJ1hbViZXU1glXFdIVVVPSFVVLyk9SFVVXUhVVTM8UywmVC4zJTU5L1Y6VTUtPSY%2BVTonWEhVVU9IVVUwJzRIVVVdSFplSFVVaWYsL2p4bHIwKHAlLTJmMzI3MClIVVVdKiUwNylPSFVVaWYsL2gyJSYwKSh2KTV1KTVIVVVdKiUwNylPSFVVaWw3Zy03JSYwKShqNi0odTM7ZjM0PUhVVV0qJTA3KU9IVVVpbDdnLTclJjApKGYpMDB2KSc4LTMySFVVXSolMDcpT0hVVWlpLSkwKGctNyUmMCkodiwzO2UzNigpNkhVVV0qJTA3KU9IVVVpby03OHQ5LScvaS0wOCk2ZSUnL3IwKEhVVV0qJTA3KU9IVVVpbDEraS0wKWYzMTQ2KTc3SFVVXSolMDcpT0hVVWl2PTc4KTF3LTQ3dTkwKUhVVV1IVVVIVVVPSFVVaXgyZDAwMzt3JSYwKWYzMDkxMmQ5ODNrLSgoKTJIVVVdKiUwNylPSFVVby0nKTI3KXc9NClIVVVdVkhaZ0haZw%3D%3D&amp;custparam=" id="119">
+      <title>金蝶云星空</title>
+    </bookmark>
+    <bookmark href="https://open.keloop.cn/home/open/login" id="120">
+      <title>快跑者开发者后台</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.47:8882/ta404/index.html" id="121">
+      <title>银海病种分析平台</title>
+    </bookmark>
+    <bookmark href="http://219.144.221.32:18080/#/dashboard" id="122">
+      <title>陕西省互联网医院 · 监管平台</title>
+    </bookmark>
+    <bookmark href="http://www.bjgxrmyy.com:27073/client/#/" id="123">
+      <title>Cas管理系统(虚拟桌面)</title>
+    </bookmark>
+    <bookmark href="http://192.168.20.11/phpmyfaq/" id="124">
+      <title>汉唐软件FAQ平台 | 快速解答 · 高效服务 · 智慧共享</title>
+    </bookmark>
+    <bookmark href="https://www.yuque.com/laok-w7yet/ubehqg" id="125">
+      <title>HL7 V2.4 接口规范</title>
+    </bookmark>
+    <folder id="126">
+      <title>大成电子病历</title>
+      <bookmark href="https://bjmdyy.s1.dcsoft.vip/emr/editor/#/login" id="148">
+        <title>电子病历编辑器 V5.0</title>
+      </bookmark>
+      <bookmark href="https://confluence.dcsoft.vip/pages/viewpage.action?pageId=89883166#heading-571%E4%BB%A5%E6%8C%87%E5%AE%9A%E7%9A%84key%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE" id="149">
+        <title>开发人员集成手册 - 电子病历编辑器-用户手册 V5.0 - Confluence</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="12">
+    <title>BI</title>
+    <bookmark href="http://bi.ht-healthcare.com/#/views/_17567206352490/sheet0" id="127">
+      <title>交易: 看板 - Tableau Server</title>
+    </bookmark>
+    <bookmark href="http://bi.ht-healthcare.com/#/views/DIP_16675290956240/DIP_1?:iid=1" id="128">
+      <title>DIP明细: DIP仪表 </title>
+    </bookmark>
+    <bookmark href="http://bi.ht-healthcare.com/#/views/data/sheet2" id="129">
+      <title>data: 主数据仪表盘 - Tableau Server</title>
+    </bookmark>
+  </folder>
+  <folder id="13">
+    <title>Ladder</title>
+    <bookmark href="https://1.xn--6nq44r2uh9rhj7f.com/#/dashboard" id="130">
+      <title>性价比机场</title>
+    </bookmark>
+    <bookmark href="https://www.crazygeeky.com/category/151/" id="131">
+      <title>免费节点 - 火龙蛋博客</title>
+    </bookmark>
+    <bookmark href="https://gitee.com/ht-healthcare/look/raw/master/tv.m3u" id="132">
+      <title>gitee.com/ht-healthcare/look/raw/master/tv.m3u</title>
+    </bookmark>
+    <bookmark href="https://vidhub3.top/" id="133">
+      <title>Vidhub视频库-在线视频网站-海量高清视频在线观看</title>
+    </bookmark>
+  </folder>
+  <folder id="39">
+    <title>AI</title>
+    <folder id="136">
+      <title>文字</title>
+      <bookmark href="https://gemini.google.com/app" id="150">
+        <title>Google Gemini</title>
+      </bookmark>
+      <bookmark href="https://grok.com/" id="151">
+        <title>Grok</title>
+      </bookmark>
+      <bookmark href="https://kimi.moonshot.cn/" id="152">
+        <title>Kimi - 会推理解析，能深度思考的AI助手</title>
+      </bookmark>
+      <bookmark href="https://chatgpt.com/" id="153">
+        <title>ChatGPT</title>
+      </bookmark>
+      <bookmark href="https://www.doubao.com/chat/" id="154">
+        <title>豆包 - 字节跳动旗下 AI 智能助手</title>
+      </bookmark>
+    </folder>
+    <folder id="137">
+      <title>图像</title>
+      <bookmark href="https://www.nano-banana.com/" id="155">
+        <title>Nano Banana: Online AI Image Editor</title>
+      </bookmark>
+    </folder>
+    <folder id="138">
+      <title>知识库</title>
+      <bookmark href="https://notebooklm.google.com/?icid=home_maincta" id="156">
+        <title>NotebookLM</title>
+      </bookmark>
+    </folder>
+    <folder id="139">
+      <title>编码</title>
+      <bookmark href="https://prompt.always200.com/" id="157">
+        <title>提示词优化器</title>
+      </bookmark>
+      <bookmark href="https://smithery.ai/" id="158">
+        <title>Smithery - Model Context Protocol Registry</title>
+      </bookmark>
+      <bookmark href="https://lmarena.ai/zh" id="159">
+        <title>LMArena</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://ai-bot.cn/ai-app-store/" id="140">
+      <title>AI应用集 - AI应用商店（人工智能APP安卓和iOS免费下载） | AI工具集</title>
+    </bookmark>
+    <bookmark href="https://console.volcengine.com/auth/login/user/2101572069" id="141">
+      <title>账号登录-火山引擎</title>
+    </bookmark>
+    <bookmark href="https://ippure.com/?ip=172.96.141.67" id="142">
+      <title>IP地址信息和纯净度检测 | IPPure</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <bookmark href="https://nswpedia.com/" id="14">
+    <title>Download Nintendo Switch ROMs (NSP/ XCI) for Yuzu/ Ryujinx/ Suyu Emulator- NSWPEDIA.COM</title>
+  </bookmark>
+  <bookmark href="https://lanhuapp.com/web/#/item/project/stage?tid=3e63a6a4-40b6-441a-8932-2346a23424f0&amp;pid=f04a08f7-0fce-460c-96b4-b42f9994733a&amp;corpId=null" id="15">
+    <title>长腿鹅UI-蓝湖</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>移动收藏夹</title>
+  <bookmark href="https://www.youtube.com/" id="16">
+    <title>YouTube</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/c/673d7fab-0ce0-800d-b9d0-f9ad755010a7" id="17">
+    <title>护理到家服务对比</title>
+  </bookmark>
+</folder>
+</xbel>
