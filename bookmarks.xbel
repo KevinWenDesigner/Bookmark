@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :163: for Floccus bookmark sync browser extension -->
+<!--- highestId :164: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -478,6 +478,9 @@
   </bookmark>
   <bookmark href="https://tv.cctv.com/lm/gzsbqlx/index.shtml" id="162">
     <title>跟着书本去旅行_CCTV节目官网</title>
+  </bookmark>
+  <bookmark href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" id="164">
+    <title>GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms</title>
   </bookmark>
 </folder>
 <folder id="3">
