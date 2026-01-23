@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :165: for Floccus bookmark sync browser extension -->
+<!--- highestId :166: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -455,6 +455,9 @@
       <title>github</title>
       <bookmark href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" id="164">
         <title>GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms</title>
+      </bookmark>
+      <bookmark href="https://github.com/anthropics/skills" id="166">
+        <title>GitHub - anthropics/skills: Public repository for Agent Skills</title>
       </bookmark>
     </folder>
     <bookmark href="https://ai-bot.cn/ai-app-store/" id="140">
