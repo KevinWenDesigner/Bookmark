@@ -461,7 +461,10 @@
       </bookmark>
     </folder>
     <folder id="165">
-      <title>github</title>
+      <title>skills</title>
+      <bookmark href="https://skillslm.com/" id="170">
+        <title>AI编程高效开发指南</title>
+      </bookmark>
       <bookmark href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" id="164">
         <title>GitHub - nextlevelbuilder/ui-ux-pro-max-skill: An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms</title>
       </bookmark>
@@ -477,9 +480,6 @@
     </bookmark>
     <bookmark href="https://ippure.com/?ip=172.96.141.67" id="142">
       <title>IP地址信息和纯净度检测 | IPPure</title>
-    </bookmark>
-    <bookmark href="https://skillslm.com/" id="170">
-      <title>AI编程高效开发指南</title>
     </bookmark>
   </folder>
 </folder>
