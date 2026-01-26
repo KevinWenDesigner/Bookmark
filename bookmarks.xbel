@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :166: for Floccus bookmark sync browser extension -->
+<!--- highestId :169: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -405,6 +405,15 @@
     </bookmark>
     <bookmark href="https://vidhub3.top/" id="133">
       <title>Vidhub视频库-在线视频网站-海量高清视频在线观看</title>
+    </bookmark>
+    <bookmark href="https://test.ustc.edu.cn/" id="167">
+      <title>中国科学技术大学测速网站</title>
+    </bookmark>
+    <bookmark href="https://ipaddress.my/?lang=zh_CN" id="168">
+      <title>我的IP地址 | IPAddress.my</title>
+    </bookmark>
+    <bookmark href="https://www.88zhibo.me/" id="169">
+      <title>NBA直播_足球直播_线上看 - 88直播</title>
     </bookmark>
   </folder>
   <folder id="39">
