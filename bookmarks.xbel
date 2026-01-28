@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :170: for Floccus bookmark sync browser extension -->
+<!--- highestId :171: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -470,6 +470,9 @@
       </bookmark>
       <bookmark href="https://github.com/anthropics/skills" id="166">
         <title>GitHub - anthropics/skills: Public repository for Agent Skills</title>
+      </bookmark>
+      <bookmark href="https://skillsmp.com/zh" id="171">
+        <title>Agent Skills 市场 - Claude、Codex 和 ChatGPT Skills | SkillsMP</title>
       </bookmark>
     </folder>
     <bookmark href="https://ai-bot.cn/ai-app-store/" id="140">
