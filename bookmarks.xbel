@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :172: for Floccus bookmark sync browser extension -->
+<!--- highestId :173: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -460,6 +460,12 @@
         <title>LMArena</title>
       </bookmark>
     </folder>
+    <folder id="173">
+      <title>设计</title>
+      <bookmark href="https://stitch.withgoogle.com/" id="172">
+        <title>Stitch - Design with AI</title>
+      </bookmark>
+    </folder>
     <folder id="165">
       <title>skills</title>
       <bookmark href="https://skillslm.com/" id="170">
@@ -473,9 +479,6 @@
       </bookmark>
       <bookmark href="https://skillsmp.com/zh" id="171">
         <title>Agent Skills 市场 - Claude、Codex 和 ChatGPT Skills | SkillsMP</title>
-      </bookmark>
-      <bookmark href="https://stitch.withgoogle.com/" id="172">
-        <title>Stitch - Design with AI</title>
       </bookmark>
     </folder>
     <bookmark href="https://ai-bot.cn/ai-app-store/" id="140">
