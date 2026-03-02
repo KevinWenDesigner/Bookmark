@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :173: for Floccus bookmark sync browser extension -->
+<!--- highestId :174: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -414,6 +414,9 @@
     </bookmark>
     <bookmark href="https://www.88zhibo.me/" id="169">
       <title>NBA直播_足球直播_线上看 - 88直播</title>
+    </bookmark>
+    <bookmark href="https://hzm0321.github.io/real-time-fund/" id="174">
+      <title>基估宝 V0.2.0</title>
     </bookmark>
   </folder>
   <folder id="39">
