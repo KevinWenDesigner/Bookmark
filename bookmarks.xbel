@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :174: for Floccus bookmark sync browser extension -->
+<!--- highestId :176: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -493,6 +493,12 @@
     <bookmark href="https://ippure.com/?ip=172.96.141.67" id="142">
       <title>IP地址信息和纯净度检测 | IPPure</title>
     </bookmark>
+    <folder id="175">
+      <title>设计</title>
+      <bookmark href="https://stitch.withgoogle.com/" id="176">
+        <title>Stitch - Design with AI</title>
+      </bookmark>
+    </folder>
   </folder>
 </folder>
 <folder id="2">
